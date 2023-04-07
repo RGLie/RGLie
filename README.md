@@ -4,7 +4,7 @@
 # 👋 Hi! 👋
 I'm a front-end developer.  
 I'm undergraduate student in KAIST,    
-Double major in School of Computing and Industrial Design.  
+Major in School of Computing.  
 
 
 # 👨‍💻Studying & Developing👨‍💻
