@@ -15,7 +15,7 @@ Currently, I'm interested in Flutter Framework.
     
 # 💻Currently Developing Project💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RGLie&repo=TodayI)](https://github.com/RGLie/TodayI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RGLie&repo=word_cloud)](https://github.com/RGLie/word_cloud)
 
 
 ***
