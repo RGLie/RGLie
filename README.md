@@ -18,7 +18,8 @@ Currently, I'm interested in...
     
 # 💻Currently Developing Project💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RGLie&repo=DeepSkyBlue)](https://github.com/RGLie/DeepSkyBlue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RGLie&repo=AgentBlue)](https://github.com/RGLie/AgentBlue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RGLie&repo=AgentBlueDesktop)](https://github.com/RGLie/AgentBlueDesktop)
 
 
 ***
