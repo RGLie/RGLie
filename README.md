@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Jaehyun%20Jeong%20(RGLie)&descAlignY=51&descAlign=50)
   
 # 👋 Hi! 👋
@@ -11,20 +10,16 @@ Major in School of Computing.
 Currently, I'm interested in...  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white>)
-![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white>)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rglie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
     
 # 💻Currently Developing Project💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RGLie&repo=AgentBlue)](https://github.com/RGLie/AgentBlue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RGLie&repo=AgentBlueDesktop)](https://github.com/RGLie/AgentBlueDesktop)
-
+[![AgentBlue](https://socialify.git.ci/RGLie/AgentBlue/image?font=Inter&language=1&name=1&owner=1&theme=Light)](https://github.com/RGLie/AgentBlue)
+[![AgentBlueDesktop](https://socialify.git.ci/RGLie/AgentBlueDesktop/image?font=Inter&language=1&name=1&owner=1&theme=Light)](https://github.com/RGLie/AgentBlueDesktop)
 
 ***
 
-![RGLie's github stats](https://github-readme-stats.vercel.app/api?username=RGLie&show_icons=true)  
-
-
-
+![RGLie's github stats](https://github-readme-stats.vercel.app/api?username=RGLie&show_icons=true)
