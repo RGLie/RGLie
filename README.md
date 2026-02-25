@@ -13,8 +13,8 @@ Currently, I'm interested in...
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rglie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-    
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RGLie&theme=default)](https://github.com/RGLie)
+
 # 💻Currently Developing Project💻
 
 [![AgentBlue](https://socialify.git.ci/RGLie/AgentBlue/image?font=Inter&language=1&name=1&owner=1&theme=Light)](https://github.com/RGLie/AgentBlue)
@@ -22,4 +22,4 @@ Currently, I'm interested in...
 
 ***
 
-![RGLie's github stats](https://github-readme-stats.vercel.app/api?username=RGLie&show_icons=true)
+[![RGLie's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RGLie&theme=default)](https://github.com/RGLie)
