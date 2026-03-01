@@ -18,7 +18,6 @@ Currently, I'm interested in...
 # 💻Currently Developing Project💻
 
 [![AgentBlue](https://socialify.git.ci/RGLie/AgentBlue/image?font=Inter&language=1&name=1&owner=1&theme=Light)](https://github.com/RGLie/AgentBlue)
-[![AgentBlueDesktop](https://socialify.git.ci/RGLie/AgentBlueDesktop/image?font=Inter&language=1&name=1&owner=1&theme=Light)](https://github.com/RGLie/AgentBlueDesktop)
 
 ***
 
