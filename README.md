@@ -6,4 +6,4 @@
 
 ***
 
-[![RGLie's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RGLie&theme=default)](https://github.com/RGLie)
+[![RGLie's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RGLie&theme=default)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RGLie&theme=default)
